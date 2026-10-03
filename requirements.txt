@@ -1,0 +1,8 @@
+boto3
+pandas
+python-dotenv
+SQLAlchemy
+PyMySQL
+pyarrow
+awswrangler
+psycopg2-binary

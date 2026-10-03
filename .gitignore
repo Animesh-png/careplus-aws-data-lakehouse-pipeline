@@ -1,0 +1,28 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local/generated data
+*.csv
+*.log
+*.parquet
+log_date_tracker.txt
+date_tracker.txt
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build/package artifacts
+*.zip
+build/
+dist/
+*.egg-info/
